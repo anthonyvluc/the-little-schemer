@@ -1,6 +1,0 @@
-The Law of Car
-The primitive car is defined only for non-empty lists.
-
-The Law of Cdr
-The primitive cdr is defined only for non-empty lists. The cdr of any non­ empty list is always another list.
-
